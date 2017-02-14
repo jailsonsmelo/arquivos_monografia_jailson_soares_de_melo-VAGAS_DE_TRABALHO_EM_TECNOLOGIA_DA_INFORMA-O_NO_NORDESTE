@@ -1,2 +1,4 @@
-# arquivos_monografia_jailson_soares_de_melo-VAGAS_DE_TRABALHO_EM_TECNOLOGIA_DA_INFORMA-O_NO_NORDESTE
-Trabalho de conclusão de curso de especialização de segurança da informação - FAFICA - Caruaru-PE
+# VAGAS DE TRABALHO EM TECNOLOGIA DA INFORMAÇÃO NO NORDESDE:
+Requisitos para empregos de TI.
+Jailson Soares de Melo
+Trabalho de Conclusão do Curso de Especialização em Segurança da Informação - FAFICA - Caruaru-PE 2016
